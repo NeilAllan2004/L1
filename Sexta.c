@@ -7,7 +7,14 @@ scanf("%c",&sexo);
 
 printf("Digite sua altura: ");
 scanf("%f",&a);
-printf("%.1f",a);
+
+if(sexo=='M'){
+    t=72.7*a-58;
+}
+else if(sexo=='F'){
+    t=62.1*a-44.7;
+}
+printf("Peso ideal: %.2f",t);
 return 0;
 
 
