@@ -1,2 +1,1 @@
-Professor, não tive tempo para terminar todas as questões pois tive problemas para baixar e rodar o GCC
-Estou enviando as questão que foram feitas, e irei adicionar o restante conforme for finalizando
+Professor, não tive tempo para terminar todas as questões no prazo pois tive problemas para baixar e utilizar o gcc
